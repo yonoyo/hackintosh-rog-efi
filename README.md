@@ -1,2 +1,2 @@
 # hackintosh-rog-efi
-理论上酷睿i8处理器的rog可以适用本efi
+已经升级到0.7.3  
